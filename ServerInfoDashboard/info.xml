@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module>
+  <name>Server info dashboard widget</name>
+  <version>1.0.0</version>
+  <requirements>
+    <minimum_version>4.0.0</minimum_version>
+  </requirements>
+  <description>
+    <![CDATA[
+      Widget to show server info on the dashboard
+    ]]>
+  </description>
+  <authors>
+    <author>
+      <name><![CDATA[Lukas Krchnak]]></name>
+      <url><![CDATA[http://www.uniqueweb.cz]]></url>
+    </author>
+  </authors>
+  <events>
+  </events>
+</module>

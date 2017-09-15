@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locale>
+  <Backend>
+    <Core>
+      <item type="label" name="DashboardDatabaseDriver">
+        <translation language="en"><![CDATA[Database driver]]></translation>
+      </item>
+      <item type="label" name="DashboardDatabaseHost">
+        <translation language="en"><![CDATA[Database host]]></translation>
+      </item>
+      <item type="label" name="DashboardDatabaseName">
+        <translation language="en"><![CDATA[Database name]]></translation>
+      </item>
+      <item type="label" name="DashboardDatabaseUser">
+        <translation language="en"><![CDATA[Database user]]></translation>
+      </item>
+      <item type="label" name="DashboardDatabaseVersion">
+        <translation language="en"><![CDATA[Database version]]></translation>
+      </item>
+      <item type="label" name="DashboardMaxExecutionTime">
+        <translation language="en"><![CDATA[Maximum execution time]]></translation>
+      </item>
+      <item type="label" name="DashboardMemoryLimit">
+        <translation language="en"><![CDATA[Memory limit]]></translation>
+      </item>
+      <item type="label" name="DashboardPhpVersion">
+        <translation language="en"><![CDATA[PHP version]]></translation>
+      </item>
+      <item type="label" name="DashboardServerInfo">
+        <translation language="en"><![CDATA[Server information]]></translation>
+      </item>
+      <item type="label" name="DashboardServerInfoDashboard">
+        <translation language="en"><![CDATA[Server Information]]></translation>
+      </item>
+      <item type="label" name="DashboardServerInfoTitle">
+        <translation language="en"><![CDATA[Server Informations]]></translation>
+      </item>
+      <item type="label" name="DashboardServerSoftwareVersion">
+        <translation language="en"><![CDATA[Server software version]]></translation>
+      </item>
+      <item type="label" name="DashboardUploadMaxFileSize">
+        <translation language="en"><![CDATA[Upload maximum file size]]></translation>
+      </item>
+    </Core>
+  </Backend>
+</locale>
